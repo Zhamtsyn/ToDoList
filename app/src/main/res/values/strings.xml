@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="yes">ТАК</string>
+    <string name="no">НІ</string>
+    <string name="noTasks">Немає запланованих задач</string>
+    <string name="enterTask">Введіть задачу</string>
+    <string name="toDelete">Видалити задачу?</string>
+</resources>
